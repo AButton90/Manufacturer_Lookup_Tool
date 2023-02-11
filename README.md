@@ -65,7 +65,7 @@ When using the tool to scrape data from Salesforce, the tool performs an analysi
 If there are differences between the two systems, they are highlighted: 
 
 <p align="center">
-  <img width="661" height="376" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Color.png">
+  <img width="351" height="176" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Color.png">
 </p>
 
   1. **Red** – Multiple results for the field were found on the Cisco site.
@@ -76,7 +76,7 @@ If there are differences between the two systems, they are highlighted:
 Once the user has reviewed the differences between what is on the CRM system and what is provided on the Cisco site, they have the option to update the CRM system with the Cisco data.
 
 <p align="center">
-  <img width="674" height="159" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Update.png">
+  <img width="624" height="189" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Update.png">
 </p>
 
 In conclusion, the Manufacturer Lookup Tool streamlines the process of gathering and comparing product export data, reducing manual errors, and increasing efficiency. By using this tool, TecEx can ensure that their clients are in compliance with customs regulations and avoid potential penalties, fines, and delays.
