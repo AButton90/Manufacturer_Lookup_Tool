@@ -40,7 +40,7 @@ Once the user submits the product codes, the tool navigates to the Cisco site an
 The search results are provided in a table as shown below, using XPaths, the tool will scrape all the product export data. If multiple result pages exist, the tool will navigate to each page and continue scraping.
 
 <p align="center">
-  <img width="781" height="335" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_CS_Results.png">
+  <img width="781" height="335" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_CS_Result.png">
 </p>
 
 ### Results
@@ -65,7 +65,7 @@ When using the tool to scrape data from Salesforce, the tool performs an analysi
 If there are differences between the two systems, they are highlighted: 
 
 <p align="center">
-  <img width="661" height="396" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Color.png">
+  <img width="661" height="376" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Color.png">
 </p>
 
   1. **Red** – Multiple results for the field were found on the Cisco site.
@@ -76,7 +76,7 @@ If there are differences between the two systems, they are highlighted:
 Once the user has reviewed the differences between what is on the CRM system and what is provided on the Cisco site, they have the option to update the CRM system with the Cisco data.
 
 <p align="center">
-  <img width="674" height="129" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Update.png">
+  <img width="674" height="159" src="https://github.com/AButton90/Manufacturer_Lookup_Tool/blob/main/images/Lookup_Tool_SF_Update.png">
 </p>
 
 In conclusion, the Manufacturer Lookup Tool streamlines the process of gathering and comparing product export data, reducing manual errors, and increasing efficiency. By using this tool, TecEx can ensure that their clients are in compliance with customs regulations and avoid potential penalties, fines, and delays.
